@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.pli.jpa.hibernate</groupId>
 	<artifactId>JpaHibernateDemo</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringHibernateJpa</name>
 	<description>Spring JPA Hibernate Demo</description>
 	<properties>
